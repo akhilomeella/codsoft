@@ -6,4 +6,4 @@ This follow-along repository contains my solutions to the codsoft internship tas
 
 01 - [Landing]{}
 
-02 - [Portfolio]{https://akhilomeella.github.io/codsoft/portfolio/}
+02 - [Portfolio](https://akhilomeella.github.io/codsoft/portfolio/)
