@@ -153,19 +153,24 @@ p {
   }
 
   h1 {
-    font-size: 48px;
+    font-size: 32px;
   }
 
   h3 {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   p {
-    font-size: 12px;
+    font-size: 10px;
   }
 
   ul {
     margin: 3em 0 0 2em;
+  }
+
+  .icons {
+    width: 140px;
+    gap: 1em;
   }
 }
 
@@ -176,10 +181,5 @@ p {
 
   ul {
     margin: 3em 0 0 2em;
-  }
-
-  .images {
-    margin-left: 0;
-    padding: 0;
   }
 }
